@@ -12,7 +12,10 @@ dotnet run
 Available endpoints are:
 
 POST /meter-reading-uploads
+
 GET /duplicateMeterReadings
+
 GET /failedCsvLines
+
 GET /meterReadings
 
