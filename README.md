@@ -4,10 +4,16 @@ Simple app that processes meter readings
 To run:
 
 clone the repository
+
 cd src
+
 dotnet restore
+
 dotnet build
+
 dotnet run
+
+
 
 Available endpoints are:
 
